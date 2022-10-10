@@ -12,6 +12,6 @@ int argmax(const std::vector<float>& numbers) {
       num = k;
     }
   }
-  if (static_cast<int>(numbers.size()) == 0) return int(k);
+  if (static_cast<int>(numbers.size()) == 0) return static_cast<int>(k);
   return static_cast<int>(num);
 }

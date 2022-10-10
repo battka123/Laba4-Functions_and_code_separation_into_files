@@ -1,8 +1,8 @@
 // Copyright 2022 Ivan Sushin i.suschin@yandex.ru
 //
 //
-#ifndef INCLUDE_LAB05_HPP
-#define INCLUDE_LAB05_HPP
+#ifndef INCLUDE_LAB05_HPP_
+#define INCLUDE_LAB05_HPP_
 
 #include <string>
 #include <vector>
@@ -26,4 +26,4 @@ std::string replace(const std::string& str, const std::string& old,
 std::vector<std::string> split(const std::string& str, char sep);
 // Task_8
 std::string join(const std::vector<std::string>&, const std::string& sep);
-#endif  // INCLUDE_LAB05_HPP
+#endif  // INCLUDE_LAB05_HPP_
