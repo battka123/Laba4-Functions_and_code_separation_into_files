@@ -1,5 +1,6 @@
-// Copyright 2020 Your Name <your_email>
-
+// Copyright 2022 Ivan Sushin i.suschin@yandex.ru
+//
+//
 #include "lab05.hpp"
 #include <gtest/gtest.h>
 #include <limits>

@@ -1,5 +1,5 @@
+// Copyright 2022 Ivan Sushin i.suschin@yandex.ru
 //
-// Created by Ivan on 10.10.2022.
 //
 #include <lab05.hpp>
 

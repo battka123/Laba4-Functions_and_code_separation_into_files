@@ -1,5 +1,5 @@
+// Copyright 2022 Ivan Sushin i.suschin@yandex.ru
 //
-// Created by Ivan on 10.10.2022.
 //
 #include <lab05.hpp>
 
@@ -12,6 +12,6 @@ int argmax(const std::vector<float>& numbers) {
       num = k;
     }
   }
-  if (int(numbers.size()) == 0) return int(k);
-  return int(num);
+  if (static_cast<int>(numbers.size()) == 0) return int(k);
+  return static_cast<int>(num);
 }

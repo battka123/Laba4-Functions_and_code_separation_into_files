@@ -1,11 +1,13 @@
+// Copyright 2022 Ivan Sushin i.suschin@yandex.ru
 //
-// Created by Ivan on 10.10.2022.
 //
 #ifndef INCLUDE_LAB05_HPP
 #define INCLUDE_LAB05_HPP
 
 #include <string>
 #include <vector>
+#include <utility>
+#include <algorithm>
 
 // Task_1
 float mean(const std::vector<float>& mean);
