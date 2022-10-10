@@ -1,4 +1,7 @@
-#include "lab05.hpp"
+//
+// Created by Ivan on 10.10.2022.
+//
+#include <lab05.hpp>
 
 int argmax(const std::vector<float>& numbers) {
   float k = -1, max = -3, num;

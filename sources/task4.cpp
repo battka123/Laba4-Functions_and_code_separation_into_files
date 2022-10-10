@@ -1,4 +1,7 @@
-#include "lab05.hpp"
+//
+// Created by Ivan on 10.10.2022.
+//
+#include <lab05.hpp>
 
 void sort(std::vector<float>& numbers) {
   for (int i = 0; i < int(numbers.size()); i++) {

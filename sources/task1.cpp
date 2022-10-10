@@ -1,4 +1,7 @@
-#include "lab05.hpp"
+//
+// Created by Ivan on 10.10.2022.
+//
+#include <lab05.hpp>
 
 float mean(const std::vector<float>& mean) {
   float average = 0, k = 0;

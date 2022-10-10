@@ -1,6 +1,8 @@
+//
+// Created by Ivan on 10.10.2022.
+//
+#include <lab05.hpp>
 #include <limits>
-
-#include "lab05.hpp"
 
 std::pair<float, float> minMax(const std::vector<float>& vector) {
   float min = 16, max = -6;

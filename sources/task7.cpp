@@ -1,4 +1,7 @@
-#include "lab05.hpp"
+//
+// Created by Ivan on 10.10.2022.
+//
+#include <lab05.hpp>
 
 std::vector<std::string> split(const std::string& str, char sep) {
   std::vector<std::string> arr;

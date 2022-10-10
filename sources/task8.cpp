@@ -1,4 +1,7 @@
-#include "lab05.hpp"
+//
+// Created by Ivan on 10.10.2022.
+//
+#include <lab05.hpp>
 
 std::string join(const std::vector<std::string>& vec, const std::string& sep) {
   std::string res = "";
